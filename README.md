@@ -124,24 +124,24 @@ wildlife-poaching-detection/
    ```bash
    git clone https://github.com/your-username/wildlife-poaching-detection.git
 Install dependencies:
-
 pip install -r requirements.txt
+
+
 Run the Streamlit app:
-
 streamlit run app.py
-Future Enhancements
-Drone-based real-time video integration
 
-GPS-based poacher tracking and heatmaps
+Future Enhancements:
 
-Mobile alert notifications
 
-Thermal imaging support for night surveillance
+Drone-based real-time video integration.
+GPS-based poacher tracking and heatmaps.
+Mobile alert notifications.
+Thermal imaging support for night surveillance.
 
-License
+License:
 This project is licensed under the MIT License.
 
-Impact
+Impact:
 This system demonstrates how AI-driven surveillance can play a critical role in wildlife protection by improving response times, reducing illegal activity, and supporting global conservation initiatives.
 
 
